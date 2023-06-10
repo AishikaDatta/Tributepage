@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header
+{
+    background-color: antiquewhite;
+}
+.head{
+    /* text-align: center; */
+    display: flex;
+    flex-direction: row;
+}
+
+.img1{
+width: 80%;
+margin: 20px 40px;
+border: 1px solid black;
+border-radius: 50%;
+
+}
+.name{
+    position: relative;
+    left: 80px;
+    text-align: left;
+}
+.bio{
+    padding: 20px;
+    margin: 50px;  
+}
+.info{
+    text-align: right;
+    margin: 60px;
+    font-size: 30px;
+}
+.mid
+{
+    text-align: center;
+    /* background-color: darkgray; */
+    padding: 20px;
+}
+.para{
+    font-size: 20px;
+
+}
+.po{
+   color:white;
+   border: 2px solid white;
+   width: 156px;
+   position: relative;
+   left: 650px;
+   text-align: center;
+   border-radius: 5px;
+   background-color: black;
+}
+.principle{
+    display: flex;
+    flex-direction: row;
+    background-color: antiquewhite;
+}
+.img2{
+    padding: 0 50px;
+    width: 60%;
+}
+.prince{
+    text-align: left;
+    font-size: 20px;
+}
+.princing{
+    text-align: center;
+}
+p,li{
+    font-size: 20px;
+    
+}
+.l{
+    text-align: center;
+    color:white;
+    border: 2px solid white;
+    width: 156px;
+    position: relative;
+    left: 650px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: black;
+}
+footer {
+    margin: 50px 0;
+  }
+  footer p {
+    text-align: center;
+  }
